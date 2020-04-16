@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Console", Monaco, monospace;
+  color:lawngreen;
+  line-height: 1.5em;
+  text-decoration: none;
+}
+
+a:hover {
+  color:lawngreen;
+}
+
+footer {
+  text-align: center;
+  left: 0;
+  right: 0;
+  bottom: 1em;
+  font-size: 0.75em;
+}
